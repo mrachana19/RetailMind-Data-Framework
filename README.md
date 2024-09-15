@@ -1,4 +1,4 @@
-# RetailMind-Data-Framework
+# RetailMind Data Framework
 
 In the competitive e-commerce landscape, businesses face challenges in understanding customer behavior, optimizing product recommendations, and making data-driven decisions to improve sales and customer satisfaction. This project presents a comprehensive data engineering solution designed to tackle these challenges by creating an efficient data pipeline that integrates real-time and historical data from multiple sources, enhances data accessibility, and leverages advanced analytics and machine learning for business growth.
 
