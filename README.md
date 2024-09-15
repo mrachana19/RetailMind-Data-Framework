@@ -60,24 +60,22 @@ The project integrates multiple data sources to provide a holistic view of busin
 ## Installation Instructions
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-data-engineering.git
-   cd ecommerce-data-engineering
-   ```
+   git clone https://github.com/mrachana19/RetailMind-Data-Framework.git
+   cd RetailMind-Data-Framework 
 
-2. **Setup AWS Services**:
+3. **Setup AWS Services**:
    - Configure AWS API Gateway and Lambda for data ingestion and processing.
    - Deploy Amazon RDS for transactional data storage.
    - Set up AWS Glue for data ETL processes to cleanse and prepare data.
 
-3. **Data Processing and Storage**:
+4. **Data Processing and Storage**:
    - Use Amazon Kinesis for real-time clickstream data ingestion.
    - Utilize AWS Glue Crawlers to manage metadata and automate schema updates in the S3 data lake.
 
-4. **Machine Learning Model Deployment**:
+5. **Machine Learning Model Deployment**:
    - Leverage SageMaker for developing, training, and deploying a real-time recommendation model.
 
-5. **Data Visualization Setup**:
+6. **Data Visualization Setup**:
    - Configure AWS QuickSight to create interactive dashboards for various business insights.
 
 ## Usage
